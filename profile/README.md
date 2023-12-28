@@ -45,5 +45,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | P5      | Date  | Date | [Assignment](URL) | Lecturer |
 
 ## Exercises
+| Project | Start | Due  | Subject           | Lecturer |
+| ------- | ----- | ---- | ----------------- | -------- |
 | P1 	    | Date       | Date     | [Assignment](URL) | Lecturer
 | P6 	    | Date       | Date     | [Assignment](URL) | Lecturer
