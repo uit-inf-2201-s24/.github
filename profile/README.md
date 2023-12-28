@@ -5,7 +5,7 @@ Administrative course information is available [here](https://sa.uit.no/utdannin
 
 We use Canvas to share important information, make sure to check your email. For discussions/chat the course has its own Discord server, you will find and invitation link on Canvas.
 
-The github organization for this course can be found [here](github.com/uit-inf-2201-s24)
+The github organization for this course can be found [here](https://github.com/uit-inf-2201-s24)
 
 The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52)
 
