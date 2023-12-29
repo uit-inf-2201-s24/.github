@@ -10,12 +10,14 @@ The schedule for this course can be found [here](https://timeplan.uit.no/emne_ti
 
 **Staff**
 
-* John Markus Bjørndalen <john.markus.bjorndalen@uit.no> (Course responsible, Lecturer)
-* Michael John Murphy <michael.j.murphy@uit.no> (Lecturer)
+* John Markus Bjørndalen <john.markus.bjorndalen@uit.no> (Course responsible, Lectures)
+* Loïc Guégan (Lectures)
+* Michael John Murphy <michael.j.murphy@uit.no> (Projects)
 * Belal Medhat Mostafa AbdAlRheem <belal.m.abdalrheem@uit.no> (TA, group #)
 * Øyvind Arne Moen Nohr <oyvind.a.nohr@uit.no> (TA, group 1)
-* Ragnhild Abel Grape <ragnhild.a.grape@uit.no> (TA, group #)
-* Ilya Taksis <ilya.taksis@uit.no> (TA, group #)
+* NN (TA, group #)
+* NN (TA, group #)
+* NN (TA, group #)
 
 **Cheating**
 
