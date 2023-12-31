@@ -6,7 +6,7 @@ We use Canvas to share important information, make sure to check your email. For
 
 The github organization for this course can be found [here](https://github.com/uit-inf-2201-s24)
 
-The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52)
+The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). Note that this is the room allocation schedule, it does not say which days there will be lectures and topics. See below for that information.
 
 **Staff**
 
@@ -64,13 +64,13 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 | Project |	Start      | Due     | Subject | Lecturer |
 |---------|------------|---------|----------|---------|
-| P2 	    | 17.01       | 07.02     | [Assignment](URL) | JMB
-| P3 	    | 07.02       | 28.02     | [Assignment](URL) | JMB
-| P4 	    | 28.02       | 03.04     | [Assignment](URL) | JMB
-| P5 	    | 03.04       | 24.04     | [Assignment](URL) | JMB
+| P2 	    | 17.01       | 07.02     | [Assignment](URL) | MM
+| P3 	    | 07.02       | 28.02     | [Assignment](URL) | MM
+| P4 	    | 28.02       | 03.04     | [Assignment](URL) | MM
+| P5 	    | 03.04       | 24.04     | [Assignment](URL) | MM
 
 ## Exercises
 | Project | Start | Due  | Subject           | Lecturer |
 | ------- | ----- | ---- | ----------------- | -------- |
 | P1 	    | 11.01       |      | [Assignment](URL) | Mike
-| P6 	    | 24.04       |      | [Assignment](URL) | JMB
+| P6 	    | 24.04       |      | [Assignment](URL) | MM
