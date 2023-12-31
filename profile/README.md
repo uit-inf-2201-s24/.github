@@ -1,6 +1,6 @@
 ## Administrative information
 
-Administrative course information is available [here](https://sa.uit.no/utdanning/emner/emne?p_document_id=822456)
+Administrative course information is available [here](https://en.uit.no/utdanning/emner/emne?p_document_id=822456)
 
 We use Canvas to share important information, make sure to check your email. For discussions/chat the course has its own Discord server, you will find and invitation link on Canvas.
 
