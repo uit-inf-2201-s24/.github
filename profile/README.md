@@ -62,15 +62,16 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P2 	    | 17.01       | 07.02     | [Assignment](URL) | MM
-| P3 	    | 07.02       | 28.02     | [Assignment](URL) | MM
-| P4 	    | 28.02       | 03.04     | [Assignment](URL) | MM
-| P5 	    | 03.04       | 24.04     | [Assignment](URL) | MM
+| Project | Start | Due   | Subject           | Lecturer |
+|---------|-------|-------|-------------------|----------|
+| P2      | 17.01 | 07.02 | [Assignment](URL) | MM       |
+| P3      | 07.02 | 28.02 | [Assignment](URL) | MM       |
+| P4      | 28.02 | 03.04 | [Assignment](URL) | MM       |
+| P5      | 03.04 | 24.04 | [Assignment](URL) | MM       |
 
 ## Exercises
-| Project | Start | Due  | Subject           | Lecturer |
-| ------- | ----- | ---- | ----------------- | -------- |
-| P1 	    | 11.01       |      | [Assignment](URL) | Mike
-| P6 	    | 24.04       |      | [Assignment](URL) | MM
+
+| Project | Start | Due | Subject           | Lecturer |
+|---------|-------|-----|-------------------|----------|
+| P1      | 11.01 |     | [Assignment](URL) | Mike     |
+| P6      | 24.04 |     | [Assignment](URL) | MM       |
